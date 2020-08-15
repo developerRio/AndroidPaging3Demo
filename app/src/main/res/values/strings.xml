@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pagination3Demo</string>
+    <string name="nothing_found_by_that_name">Nothing found by that Name 😕</string>
+    <string name="search_the_repos">Search the repos</string>
+    <string name="loading">Loading</string>
+    <string name="language">Language: %s</string>
+    <string name="search_hint">GitHub Repository</string>
+    <string name="no_results">No results 😓</string>
+    <string name="unknown">\?</string>
+    <string name="retry">Retry</string>
+</resources>
